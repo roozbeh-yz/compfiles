@@ -26,6 +26,7 @@ import Compfiles.Imo1964P4
 import Compfiles.Imo1965P1
 import Compfiles.Imo1965P2
 import Compfiles.Imo1966P4
+import Compfiles.Imo1966P5
 import Compfiles.Imo1967P3
 import Compfiles.Imo1968P2
 import Compfiles.Imo1968P5
@@ -40,6 +41,7 @@ import Compfiles.Imo1972P1
 import Compfiles.Imo1972P3
 import Compfiles.Imo1972P4
 import Compfiles.Imo1972P5
+import Compfiles.Imo1973P3
 import Compfiles.Imo1973P5
 import Compfiles.Imo1974P3
 import Compfiles.Imo1974P5
@@ -48,6 +50,7 @@ import Compfiles.Imo1975P2
 import Compfiles.Imo1976P4
 import Compfiles.Imo1976P6
 import Compfiles.Imo1977P4
+import Compfiles.Imo1977P5
 import Compfiles.Imo1977P6
 import Compfiles.Imo1978P1
 import Compfiles.Imo1978P5
